@@ -1,4 +1,4 @@
-# Firebase Blog Site
+# Firebase Login/Signup Site
 It's basic login, signup, logout app. You can add new guide and titles. 
 Built with html, css, js, firebase
 
